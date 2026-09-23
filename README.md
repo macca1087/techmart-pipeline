@@ -7,7 +7,7 @@
 ![Lint](https://github.com/macca1087/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/macca1087/techmart-pipeline)
 
-<mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
+![Open Issues](https://img.shields.io/github/issues/macca1087/techmart-pipeline)
 
 ## Project Overview
 
